@@ -1,6 +1,6 @@
 # Hola Mundo, soy Nicolás!
 
-Estoy transitando mi último año en la tecnicatura univ. en programacion en la UTN, lo que significa que ya tengo los dedos listos para el teclado y la lógica afilada para resolver problemas complejos.
+Estoy transitando mi último año en la tecnicatura universitaria en programacion en la UTN Cordoba, lo que significa que ya tengo los dedos listos para el teclado y la lógica afilada para resolver problemas complejos.
 
 A diferencia del estereotipo del desarrollador solitario, me encanta conectar con la gente. Soy una persona comunicativa y con gran sentido del humor, convencido de que el software se construye mejor cuando hay buena onda y feedback constante en el equipo.
 
